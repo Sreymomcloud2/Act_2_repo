@@ -2,3 +2,4 @@ Hello, my name is Sreymom CHEA, I am very new to github, but I am fully committe
 This line was added locally.
 
 This is version 1 text added locally. 
+This is version 2 text added locally. 
