@@ -3,4 +3,9 @@ This line was added locally.
 
 This is version 1 text added locally. 
 This is version 2 text added locally. 
+<<<<<<< HEAD
 This is version 4 text added locally. 
+=======
+
+This is version 3 text added in Github.
+>>>>>>> 69298a31828bee74316f590db804d7e3b936fc07
